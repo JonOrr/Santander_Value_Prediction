@@ -5,6 +5,6 @@ The Milestone report looks into the Exploratory Data Analysis and conducts a Ran
 
 Notes on future inclusions:
 
-The Final Report combines the efforts of the Milestone Report with feature engineering and LightGBM to reduce error and improve score within the kaggle competition. 
+The Final Report combines the efforts of the Milestone Report with feature engineering and a comparison with other models.
 
 The slide deck is a presentation of the results in a format suitable for both technical and non-technical staff.
